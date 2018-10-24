@@ -1,0 +1,31 @@
+{
+  "name": "nloug-demo",
+  "version": "1.0.0",
+  "description": "Demo for meetup",
+  "main": "index.js",
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mennooo/nlOUG-Demo.git"
+  },
+  "author": "M. Hoogendijk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mennooo/nlOUG-Demo/issues"
+  },
+  "homepage": "https://github.com/mennooo/nlOUG-Demo#readme",
+  "dependencies": {
+    "@babel/polyfill": "^7.0.0"
+  }
+}
